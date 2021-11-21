@@ -1,0 +1,77 @@
+{
+  "bebes":[
+    {
+        "id":"1", 
+        "nombre": "Conjunto 1", 
+        "precio":"$2500",
+        "talle":  "0-3 meses",
+        "stock":1,
+        "imgDir": "img/bebes/bebes31.jpeg"
+        },
+    {
+        "id":"2",
+        "nombre": "Conjunto 2",
+        "precio":"$3500",
+        "talle": "0-3 meses", 
+        "stock":1, 
+        "imgDir": "img/bebes/bebes32.jpg"
+    },
+    {
+        "id":"3", 
+        "nombre": "Conjunto 3", 
+        "precio":"$3500", "talle": "0-3 meses", 
+        "stock":1, 
+        "imgDir": "img/bebes/bebes33.jpg"
+    },
+    {
+        "id":"4", 
+        "nombre": "Pijama para bebé varón", 
+        "precio":"$1800", 
+        "talle": "6-9 meses", 
+        "stock":1, 
+        "imgDir": "img/bebes/bebes61.jpeg"
+    },
+    {
+        "id":"5", 
+        "nombre": "Pijama para bebé varón", 
+        "precio":"$2000", 
+        "talle": "6-9 meses", 
+        "stock":1, 
+        "imgDir": "img/bebes/bebes62.jpg"
+    },
+    {
+        "id":"6", 
+        "nombre": "Pijama para bebé nena", 
+        "precio":"$2000", 
+        "talle": "6-9 meses", 
+        "stock":1, 
+        "imgDir": "img/bebes/bebes63.jpg"
+    },
+    {
+        "id":"7", 
+        "nombre": "Conjunto para bebé", 
+        "precio":"$3500", 
+        "talle": "9-12 meses", 
+        "stock":1, 
+        "imgDir": "img/bebes/bebes91.jpg"
+    },
+    {
+        "id":"8", 
+        "nombre": "Conjunto para bebé nena", 
+        "precio":"$3000", 
+        "talle": "9-12 meses", 
+        "stock":1, 
+        "imgDir": "img/bebes/bebes92.jpg"
+    }
+],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

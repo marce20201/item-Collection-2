@@ -1,0 +1,21 @@
+.icono-carrito{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left:1.5rem;
+    color: rebeccapurple;
+    margin-top: 1.2rem;
+}
+.icono-carrito:hover{
+    color:rgb(203, 65, 216);
+}
+.icono-carrito .cantidad-prod{
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+    position: absolute;
+    z-index: 1;
+    color: white;
+    font-size: 0.9rem;
+    font-weight: bold;
+    margin-left: 0.4%;
+}

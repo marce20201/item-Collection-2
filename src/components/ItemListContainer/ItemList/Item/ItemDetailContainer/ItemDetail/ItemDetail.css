@@ -1,0 +1,20 @@
+.detail-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.swal-modal{
+    height: 250px;
+}
+.item-detail{
+    display: flex;
+    justify-content: center;
+    width: 50%;
+    align-items: center;
+    flex-direction: column;
+
+}
+.item-detail img{
+    width: 20%;
+}
